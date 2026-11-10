@@ -1,1 +1,2 @@
-# FoxTwoShipPack-EN
+# FoxTwoShipPack
+TL of Chinese Starsector Mod FoxTwoShipPack
