@@ -2,10 +2,9 @@
 	"masterVersionFile":"https://raw.githubusercontent.com/MrPossible001/FoxTwoShipPack-EN/main/FoxTwoShipPack.version",
 	"modName":"FoxTwo Ship Pack",
 	"modThreadId":36291,
-    "directDownloadURL":"https://github.com/MrPossible001/FoxTwoShipPack-EN/releases/download/v1.5.51-eng/FoxTwoShipPack_EN.zip",
 	"modVersion":{
 		"major":1,
 		"minor":5,
-		"patch":"51a-en"
+		"patch":"51b-en"
 	}
 }
